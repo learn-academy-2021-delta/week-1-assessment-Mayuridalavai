@@ -8,44 +8,44 @@
 // --------------------1) What will this log?
 
 var cohort = "Delta 2021"
-console.log(cohort.length)
+// console.log(cohort.length)
 
-// a) Your answer:10
-// b) Verify and explain: I verified in treminal the output is 10 and used command node coding-concepts.js
-//in the terminal 
+// a) Your answer:
+// b) Verify and explain:
+
 
 // --------------------2) What will this log?
 
 var greeting = "Hello World!"
-console.log(greeting[3])
+// console.log(greeting[3])
 
-// a) Your answer:l
-// b) Verify and explain: I verified in terminal using command node code-concepts.js and the answer is
+// a) Your answer:
+// b) Verify and explain:
 
 
 // --------------------3) What will this log?
 
 var languages = ["JavaScript", "Ruby", "Python", "C++"]
 var index = 1
-console.log(languages[index])
+// console.log(languages[index])
 
-// a) Your answer:ruby
-// b) Verify and explain: In this code index starts with 0 and index 1 is ruby and i verified in terminal the answer is ruby
+// a) Your answer:
+// b) Verify and explain:
 
 
 // --------------------4) What will this log?
 
 var weekendDays = ["saturday", "sunday"]
-console.log(weekendDays.toUpperCase())
+// console.log(weekendDays.toUpperCase())
 
-// a) Your answer: SATURDAY, SUNDAY 
-// b) Verify and explain:In this i verified it says  weekendays is not defined 
+// a) Your answer:
+// b) Verify and explain:
 
 
 // --------------------5) What will this log?
 
 var dataTypes = ["number", "string", "Boolean"]
- console.log(typeof dataTypes.length)
+// console.log(typeof dataTypes.length)
 
-// a) Your answer: 6
-// b) Verify and explain: code says that type of datatypes length so i verified in terminal it is number 
+// a) Your answer:
+// b) Verify and explain:
