@@ -65,7 +65,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 6. What is something we did in class this week you found helpful?  
 
-  Your answer: pair programming  
+  Your answer: pair programming ,github 
 
 
 
